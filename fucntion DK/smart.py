@@ -5,4 +5,3 @@ def cetakidentitassiswa():
     
 #panggil fungsi cetak identitas siswa  
 cetakidentitassiswa()
-    
